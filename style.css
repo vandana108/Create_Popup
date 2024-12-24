@@ -21,11 +21,12 @@ body{
 }
 
 .close-icon{
+  
   font-size: 48px;
   font-weight: 700;
   position: absolute;
   right: 16px;
   cursor: pointer;
   font-family: serif;
-  display: none;
+  /* display: none; */
 }   
